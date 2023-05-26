@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## **davidrwanda** is a ✨ Proactive, Innovation orientated professional passionate in software engineering ✨
+## **davidrwanda** is a ✨ Proactive, Innovation orientated professional. Passionate in software engineering ✨
 
 
 

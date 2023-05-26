@@ -5,8 +5,8 @@
 
 
 
-- 🔭 I’m currently working on kuranga.co website
-- 🌱 I’m currently learning nextjs and GraphQL
+- 🔭 I’m currently working as Full-stack developer on oneclinic.vet App(Switzerland) using NestJS and NextJs.
+- 🌱 I’m currently learning GraphQL
 - 👯 My intention is to create best Accounting and financing software in Rwanda
 - 💬 Ask me about web development!
 - 📫 How to reach me: by email:daveleo250@gmail.com

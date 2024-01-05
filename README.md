@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working as a part-time software engineer at CyLab Africa.
+- 🔭 I’m currently working as a part-time software engineer at Carnegie Mellon University (CyLab Africa).
 - 🌱 I’m currently learning GraphQL
 - 💬 Ask me about software development!
 - 📫 How to reach me: by email:daveleo250@gmail.com
